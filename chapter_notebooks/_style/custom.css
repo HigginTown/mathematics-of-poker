@@ -1,0 +1,36 @@
+<style>
+div.warn {    
+    background-color: #fcf2f2;
+    border-color: #dFb5b4;
+    border-left: 5px solid #dfb5b4;
+    font-weight: bold;
+    padding: 0.5em;
+    }
+ </style>
+
+
+<style>
+div.example {    
+    background-color: rgb(0, 0, 255, 0.09);
+    border-color: 	#000080;
+    border-left: 5px rgb(0, 0, 255, 0.2);
+    font-weight: 500;
+    padding: 0.5em;
+    }
+ </style>
+
+
+<style>
+div.math {    
+    background-color: rgba(0, 255, 0, 0.05);;
+    border-color: 	#008000;
+    border-left: 5px rgba(0, 255, 0, 0.20);
+    font-weight: 500;
+    padding: 0.5em;
+    
+    }
+ </style>
+
+
+
+
