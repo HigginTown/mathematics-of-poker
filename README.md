@@ -12,7 +12,7 @@ I couldn't find something like this anywhere else on the net or in dead study gr
 
 _Here's an example of the kinds of images (code) you'll find in this repo:_
 
-![optimal-bluff-frequency-toy-game](./chapter_notebooks/part_two/Example-4.1-BluffFrequencyVEV.png)
+![optimal-frequency](./chapter_notebooks/part_two/Example-4.2-POTODDS-CALLING-FREQ.png)
 
 
 ------------------
