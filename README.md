@@ -7,6 +7,8 @@ A collection of Notebooks, Scripts, Widgets, and Interactive Images to help work
 For each part and chapter, I have a Jupyter Notebook that demonstrates many of the mathematical concepts found in the book. 
 I've also added some additional excercises so you can modify the code to answer new questions. This should help you more deeply understand the material. 
 
+I couldn't find something like this anywhere else on the net or in dead study group forum threads, so I decided to create it myself. 
+
 
 _Here's an example of the kinds of images (code) you'll find in this repo:_
 
